@@ -3,9 +3,9 @@
 
 ### Full-Stack project with Authentication
 
-[Live site Link]()
+[Live site Link](https://taobao-shop841.netlify.app)
 
-[GitHub-Client]()
+[GitHub-Client](https://github.com/mahmud841/Redux-assignment-TaoBao-shop-client)
 
 ## Project Descriptions--
 
@@ -23,4 +23,5 @@
 React.js,Redux, React Bootstrap, CSS, Node.js, Express.js, MongoDB ,Netlify
 Firebase, Heroku, Stripe and so on.
 
-##                                Thank You 
+* *********************  HappY Coding ************* 
+
